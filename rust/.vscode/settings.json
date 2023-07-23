@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\algorithms\\Cargo.toml",
+        ".\\guessing_game\\Cargo.toml",
+        ".\\algorithms\\Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
